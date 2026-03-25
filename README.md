@@ -1,2 +1,3 @@
-# zuzulabs
+# Zuzu Labs
+
 Support page
