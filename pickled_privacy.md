@@ -1,6 +1,6 @@
 # Privacy Policy for Pickled: Learn Pickleball
 
-**Last Updated: July 2026**
+**Last Updated: October 2026**
 
 Zuzu Lab ("we," "our," or "us") respects your privacy. We created Pickled to be a safe, educational way to learn and play pickleball. This Privacy Policy explains our data collection practices.
 
@@ -19,10 +19,10 @@ All game progress — settings, drill completion, career stats, and match histor
 
 ## 3. Local Multiplayer ("Play Nearby")
 
-Pickled offers an optional local multiplayer mode that connects two devices directly over your local Wi-Fi network using Apple's peer-to-peer networking (Bonjour). When you use Play Nearby:
+Pickled offers an optional local multiplayer mode that connects two nearby devices directly, using Apple's Multipeer Connectivity framework (which can use Wi-Fi or Bluetooth) and Bonjour to find each other. When you use Play Nearby:
 
 - Your device's name may be visible to nearby devices running Pickled so players can find each other.
-- Game data (ball position, paddle movement, and score) is exchanged directly between the two devices only.
+- Game data (ball position, paddle movement, and score) is exchanged directly between the two devices only, over a connection that is set to require encryption.
 - Nothing is sent to our servers or any third party — we operate no servers.
 - iOS will ask for Local Network permission the first time you use this feature; the rest of the app works fully without it.
 
